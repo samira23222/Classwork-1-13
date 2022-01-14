@@ -1,0 +1,133 @@
+* {
+    margin:0;
+    padding:0;
+    
+    
+}
+body {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    
+    font-family: sans-serif;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 30%;
+   
+}
+.container {
+    position: absolute;
+    width: 35%;
+    height: 70%;
+    top: 15%;
+    left: 35%;
+    transform: translate(-50, -50);
+    background-color: lightgoldenrodyellow;
+    border: 10px solid white;
+    
+}
+
+/*#one {
+   
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: lightskyblue;
+    font-size: 25px;
+    border-top: 5px solid white;
+   
+}
+#second {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: lightskyblue;
+    font-size: 25px;
+   
+}
+#three {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: lightskyblue;
+    font-size: 25px;
+   
+}
+#four {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: lightskyblue;
+    font-size: 25px;
+   
+}
+#five {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: lightskyblue;
+    font-size: 25px;
+}*/
+    
+    .five {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        padding: 25px;
+        background-color: lightskyblue;
+        font-size: 25px;
+       
+    }
+    .cool {
+        background-color: pink;
+        color: #fff;
+        text-shadow: 2px 2px 1px #3b6a5e;
+        border-top: 1px solid #7ee0c9;
+        border-bottom: 1px solid #3b6a5e;}
+
+        .warm {
+            background-color: green;
+            color: #fff;
+            text-shadow: 2px 2px 1px #3b6a5e;
+            border-top: 1px solid #7ee0c9;
+            border-bottom: 1px solid #3b6a5e;}
+
+            li {
+                background-color: #ec8b68;
+                color: #fff;
+                border-top: 1px solid #fe9772;
+                border-bottom: 1px solid #9f593f;
+                font-size: 24px;
+                letter-spacing: .05em;
+                list-style-type: none;
+                text-shadow: 2px 2px 1px #9f593f;
+                height: 50px;
+                padding-left: 1em;
+                padding-top: 10px;}
+
+
+
+
+  
+
+ .iPhone {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    background-color: pink;
+    font-size: 25px;
+   
+}
+.wrapper {
+    margin-top: -7%;
+    
+}
